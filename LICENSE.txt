@@ -1,0 +1,18 @@
+BreakdownStudio 3D Pro (v2.0.0) — Commercial & Studio License + GPLv3 Add-on Terms
+Copyright (c) 2026 Tumex Studio (https://tumexstudio.gumroad.com | tumexstudio@gmail.com)
+
+1. COMMERCIAL & STUDIO USAGE RIGHTS FOR GENERATED OUTPUTS
+   All rendered images, wireframe passes, clay passes, composite 3-way split posters,
+   HUD posters, and MP4 turntable/wipe videos generated using BreakdownStudio 3D Pro
+   are 100% royalty-free for unlimited personal, freelance, client, studio, and
+   commercial use.
+
+2. BLENDER PYTHON ADD-ON CODE LICENSE
+   In accordance with the Blender Python API requirements, the Python source scripts
+   interacting with `bpy` are licensed under the GNU General Public License v3.0 or later
+   (SPDX: GPL-3.0-or-later).
+
+3. POLY HAVEN CC0 ATTRIBUTION
+   Optional on-demand studio HDRIs and sample 3D models fetched via the Poly Haven loader
+   are provided courtesy of Poly Haven (https://polyhaven.com) under the CC0 1.0 Universal
+   Public Domain Dedication.

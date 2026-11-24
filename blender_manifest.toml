@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "breakdown_studio"
+version = "2.0.0"
+name = "BreakdownStudio 3D Pro — Wireframe / Clay / Final Breakdown Suite"
+tagline = "1-Click 3-Pass Wireframe, Clay & Final PBR Breakdown Poster + Wipe Video Generator"
+maintainer = "Tumex Studio <tumexstudio@gmail.com>"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://tumexstudio.gumroad.com/l/breakdownstudio"
+tags = ["Render", "Import-Export", "Material", "Lighting"]
+
+[permissions]
+network = "Optional: Download CC0 Studio HDRIs and sample 3D models from Poly Haven (polyhaven.com)"
+files = "Save rendered PNG passes, 3-way split breakdown posters, and MP4 wipe videos to your chosen output folder"
